@@ -22,7 +22,7 @@ void Spartan::initVariables()
 	this->canJump = true;
 	this->velocity.x = 0.f;
 	this->velocity.y = 0.f;
-	this->health = 1000;
+	this->health = 5000;
 	this->switchTime = 200.f;
 	this->totalTime = 0.f;
 	this->faceRight = true;
@@ -355,7 +355,7 @@ float Spartan::heavyAttack()  //bool Spartan::heavyAttack(Enemy * enemy, float d
 			//t1 = c1.getElapsedTime();
 
 		this->idle = false;
-		this_thread::sleep_for(1s);
+		this_thread::sleep_for(0.5s);
 		this->heavyAttackGoing = true;
 
 		updateHeavyAttackLocation();

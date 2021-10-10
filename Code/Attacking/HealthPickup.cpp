@@ -3,7 +3,7 @@
 HealthPickup::HealthPickup(Vector2f location)
 {
 	
-	this->amount = 10;
+	this->amount = 200;
 	this->texture.loadFromFile("images/red-orb.png");
 	this->sprite.setTexture(this->texture);
 	this->sprite.setTextureRect(IntRect(0, 0, 600, 600));

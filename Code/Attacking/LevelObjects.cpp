@@ -59,7 +59,6 @@ void LevelObjects::renderObjects(RenderTarget & target)
 	this->pickups.render(target);
 }
 
-
 void LevelObjects::initLevel0Objects() // MENU 
 {
 	this->platforms.clearPlatforms();
@@ -67,7 +66,7 @@ void LevelObjects::initLevel0Objects() // MENU
 	this->checkpoints.clear();
 	bgTexture.loadFromFile("images/menubg.png");
 	this->initBackground(IntRect(0, 0, 0, 0), Vector2f(0.f, 0.f), Vector2f(0.0f, 0.0f));
-
+	
 }
 
 void LevelObjects::initLevel1Objects()

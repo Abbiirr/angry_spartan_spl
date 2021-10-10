@@ -52,7 +52,7 @@ void Pickups::update(Spartan spartan)
 
 void Pickups::initLevel1Pickups()
 {
-	Pickup *pickup1 = new HealthPickup(Vector2f(500.f, 280.f)); // Main platform
+	Pickup *pickup1 = new HealthPickup(Vector2f(7000.f, 180.f)); // Main platform
 	list.push_back(pickup1);
 }
 

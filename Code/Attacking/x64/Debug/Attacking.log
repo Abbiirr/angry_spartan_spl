@@ -1,10 +1,5 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Attacking.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Spartan.cpp
+  Enemies.cpp
 f:\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
   f:\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
-f:\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-f:\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-f:\angry_spartan_spl\code\attacking\spartan.cpp(94): warning C4305: '=': truncation from 'double' to 'float'
-f:\angry_spartan_spl\code\attacking\spartan.cpp(325): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
-f:\angry_spartan_spl\code\attacking\spartan.cpp(327): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
   Attacking.vcxproj -> F:\angry_spartan_spl\Code\x64\Debug\TESTER-working directory.exe

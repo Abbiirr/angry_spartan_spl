@@ -67,7 +67,7 @@ private:
 	int score = 0;
 
 	int lightAttackDamage = 5;
-	int heavyAttackDamage = 20; // 30
+	int heavyAttackDamage = 50; // 30
 
 	bool isChargeAble();
 
@@ -124,7 +124,7 @@ public:
 	ScoreSystem scoreSystem = ScoreSystem();
 
 	int health;
-	int MAX_HEALTH = 1000;
+	int MAX_HEALTH = 5000;
 
 	Texture spartanTextureSheet;
 	Sprite spartanSprite;

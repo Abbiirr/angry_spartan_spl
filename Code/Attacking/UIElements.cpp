@@ -88,7 +88,7 @@ void UIElements::render(RenderTarget & target, bool isMoreThanThreshold, Vector2
 	//{
 	pauseText.setPosition(pos.x - 50.f, pos.y - 200.f);
 	gameOverText.setPosition(pos.x - 50.f, pos.y - 200.f);
-	scoreText.setPosition(pos.x + 330.f, pos.y - 255.f);
+	scoreText.setPosition(pos.x + 290.f, pos.y - 255.f);
 	healthBar.frameSprite.setPosition(pos.x - 435.f, pos.y - 250.f);
 	healthBar.fillSprite.setPosition(pos.x - 430.f, pos.y - 245.f);
 
