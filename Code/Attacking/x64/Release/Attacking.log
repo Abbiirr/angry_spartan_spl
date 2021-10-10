@@ -1,0 +1,28 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Attacking.vcxproj, Refactoring AS.vcxproj, Test-Refactored AS.vcxproj, TESTER.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Platforms.cpp
+f:\#software engineering\angry_spartan2\code\tester-sabil\attacking\platforms.h(38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+f:\#software engineering\angry_spartan2\code\tester-sabil\attacking\platforms.cpp(51): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#software engineering\angry_spartan2\code\tester-sabil\attacking\platforms.cpp(100): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#software engineering\angry_spartan2\code\tester-sabil\attacking\platforms.cpp(163): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#software engineering\angry_spartan2\code\tester-sabil\attacking\platforms.cpp(226): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Attacking.vcxproj -> F:\#Software Engineering\angry_spartan2\Code\TESTER-sabil\x64\Release\TESTER-working directory.exe
