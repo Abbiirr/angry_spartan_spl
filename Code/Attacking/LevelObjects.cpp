@@ -59,6 +59,7 @@ void LevelObjects::renderObjects(RenderTarget & target)
 	this->pickups.render(target);
 }
 
+
 void LevelObjects::initLevel0Objects() // MENU 
 {
 	this->platforms.clearPlatforms();
@@ -66,7 +67,7 @@ void LevelObjects::initLevel0Objects() // MENU
 	this->checkpoints.clear();
 	bgTexture.loadFromFile("images/menubg.png");
 	this->initBackground(IntRect(0, 0, 0, 0), Vector2f(0.f, 0.f), Vector2f(0.0f, 0.0f));
-	
+
 }
 
 void LevelObjects::initLevel1Objects()
@@ -82,7 +83,7 @@ void LevelObjects::initLevel1Objects()
 	bgTexture.loadFromFile("images/morningBG.jpeg");
 	bgTexture.setRepeated(true);
 	//this->initBackground(IntRect(0, 0, 2404, 320), Vector2f(0.f, -323.f), Vector2f(2.045f, 2.5f));
-	this->initBackground(IntRect(0, 0, 2404, 320), Vector2f(0.f, -323.f), Vector2f(2.045f, 2.5f));
+	this->initBackground(IntRect(0, 0, 4800, 320), Vector2f(0.f, -323.f), Vector2f(2.045f, 2.5f));
 	this->platforms.chooseLevel(1);
 	this->enemies.chooseLevel(1);
 	this->checkpoints.chooseLevel(1);
@@ -96,7 +97,7 @@ void LevelObjects::initLevel2Objects()
 	this->checkpoints.clear();
 	bgTexture.loadFromFile("images/DUSK.png");
 	bgTexture.setRepeated(true); // to make repeation 
-	this->initBackground(IntRect(0, 0, 1202, 320), Vector2f(0.f, -323.f), Vector2f(2.045f, 2.5f));
+	this->initBackground(IntRect(0, 0, 4800, 320), Vector2f(0.f, -323.f), Vector2f(2.045f, 2.5f));
 	this->platforms.chooseLevel(2);
 	this->enemies.chooseLevel(2);
 	this->checkpoints.chooseLevel(2);
@@ -105,6 +106,17 @@ void LevelObjects::initLevel2Objects()
 
 void LevelObjects::initLevel3Objects()
 {
+	this->platforms.clearPlatforms();
+	this->enemies.clearEnemies();
+	this->checkpoints.clear();
+	bgTexture.loadFromFile("images/morningBG.jpeg");
+	bgTexture.setRepeated(true); // to make repeation 
+	this->initBackground(IntRect(0, 0, 4800, 320), Vector2f(0.f, -323.f), Vector2f(2.045f, 2.5f));
+	this->platforms.chooseLevel(3);
+	this->enemies.chooseLevel(3);
+	this->checkpoints.chooseLevel(3);
+	//this->pickups.chooseLevel(2);
+
 }
 
 void LevelObjects::update(Spartan spartan)

@@ -303,6 +303,8 @@ void Spartan::render(RenderTarget & target)
 {
 	target.draw(spartanSprite);
 	//target.draw(scoreSystem.scoreText);
+	textChannel.draw(target, spartanSprite.getPosition(), -10.f, -20.f);
+	textChannel.updateText("");
 }
 
 Vector2f Spartan::getPosition()
