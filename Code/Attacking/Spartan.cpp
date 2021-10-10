@@ -244,6 +244,7 @@ void Spartan::updateAnimation(float deltaTime)
 	{
 		//spartanAnimation.updateAnimation(&spartanSprite, "idleRight", deltaTime);
 		this->animation.idle(&this->spartanSprite, !faceRight, deltaTime);
+		textChannel.updateText("IDLE");
 	}
 
 
@@ -331,6 +332,8 @@ float Spartan::heavyAttack()  //bool Spartan::heavyAttack(Enemy * enemy, float d
 {
 	if (isIdle() && !this->verticalMoving && Keyboard::isKeyPressed(Keyboard::K))
 	{
+		textChannel.updateText("Heavy Attacking");
+
 		if (faceRight) {
 			this->animation.heavyAttack(&this->spartanSprite, false, 0);
 		}
@@ -376,6 +379,8 @@ void Spartan::lightAttack()
 {
 	if (isIdle() && Keyboard::isKeyPressed(Keyboard::J))
 	{
+		textChannel.updateText("Light Attacking");
+
 		this->lightAttackSound.play();
 		if (faceRight) {
 			this->animation.lightAttack(&this->spartanSprite, false, 0);
@@ -433,6 +438,7 @@ bool Spartan::block(float deltaTime)
 {
 	if (Keyboard::isKeyPressed(Keyboard::LControl) && !isStaminaEmpty())
 	{
+		textChannel.updateText("Blocking");
 		//this->reduceStamina(2);
 		this->isBlocking = true;
 		cout << "Player is blocking" << endl;
@@ -454,6 +460,7 @@ bool Spartan::charge()
 {
 	if (isHorizontalMoving() && !this->verticalMoving && Keyboard::isKeyPressed(Keyboard::LShift) && this->stamina > 5)
 	{
+		textChannel.updateText("Charging");
 		this->isCharging = true;
 		chargeTime = chargeClock.getElapsedTime();
 		if (chargeTime.asSeconds() >= 1)

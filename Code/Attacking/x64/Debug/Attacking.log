@@ -1,2 +1,510 @@
-﻿  Main.cpp
-LINK : fatal error LNK1104: cannot open file 'sfml-system-d.lib'
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Attacking.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AbstractEnemy.cpp
+  Animation.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(89): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(95): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(100): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(117): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(123): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(128): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(149): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(155): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(161): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(176): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(182): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(187): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(208): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(214): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(220): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(235): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(241): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(246): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(265): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(271): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(277): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(292): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(298): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(303): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(322): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(328): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(334): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(349): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(355): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(360): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(380): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(386): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(392): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(407): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(413): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\animation.cpp(418): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Archer.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\archer.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\archer.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+  AttributeComponents.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\attributecomponents.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\attributecomponents.cpp(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Brute.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\brute.cpp(23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\brute.cpp(39): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Checkpoint.cpp
+  Checkpoints.cpp
+  Collider.cpp
+  Combat.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\platforms.h(38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gamemode.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\levels.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\gamemode.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\combat.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\combat.cpp(216): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\combat.cpp(335): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\combat.cpp(457): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Enemies.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+  Enemy.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\enemy.cpp(106): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\enemy.cpp(115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\enemy.cpp(134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\enemy.cpp(146): warning C4305: '=': truncation from 'double' to 'float'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\enemy.cpp(165): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameMode.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gamemode.cpp(77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  GameOverMenu.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.cpp(63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.cpp(74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  HealthBar.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\healthbar.cpp(52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  HealthPickup.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Immortal.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\immortal.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\immortal.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+  Leonidas.cpp
+  LevelObjects.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gamemode.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\levels.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\gamemode.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\platforms.h(38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\combat.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Levels.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\levels.cpp(73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\levels.cpp(84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\levels.cpp(95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  MainMenu.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\mainmenu.cpp(126): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\mainmenu.cpp(137): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\mainmenu.cpp(148): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating Code...
+  Compiling...
+  PauseMenu.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.cpp(69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.cpp(80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Pickup.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Pickups.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Platform.cpp
+  Game.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\platforms.h(38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gamemode.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\levels.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\gamemode.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\combat.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\mainmenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\levels.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\game.cpp(6): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\game.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\platforms.h(38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gamemode.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\levels.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\gamemode.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\combat.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\mainmenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\levels.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+  Platforms.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\platforms.h(38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\platforms.cpp(51): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\platforms.cpp(100): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\platforms.cpp(162): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+f:\#new folder (2)\angry_spartan_spl\code\attacking\platforms.cpp(225): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Projectile.cpp
+  Projectiles.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  SaveFile.cpp
+  ScoreSystem.cpp
+  Spartan.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(186): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.h(187): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.cpp(94): warning C4305: '=': truncation from 'double' to 'float'
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.cpp(323): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\spartan.cpp(325): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  SpartanAttack.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+  Spawner.cpp
+  Swordsman.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\swordsman.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\#new folder (2)\angry_spartan_spl\code\attacking\swordsman.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+  TextChannel.cpp
+  UIElements.cpp
+f:\#new folder (2)\angry_spartan_spl\code\attacking\gameovermenu.h(3): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  f:\#new folder (2)\angry_spartan_spl\code\attacking\pausemenu.h(3): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+  Wall.cpp
+  Xerxes.cpp
+  Generating Code...
+  Attacking.vcxproj -> F:\#New folder (2)\angry_spartan_spl\Code\x64\Debug\TESTER-working directory.exe

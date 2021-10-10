@@ -75,8 +75,13 @@ void LevelObjects::initLevel1Objects()
 	this->platforms.clearPlatforms();
 	this->enemies.clearEnemies();
 	this->checkpoints.clear();
-	bgTexture.loadFromFile("images/MORNING.png");
+	/*bgTexture.loadFromFile("images/MORNING.png");
 	bgTexture.setRepeated(true);
+	this->initBackground(IntRect(0, 0, 2404, 320), Vector2f(0.f, -323.f), Vector2f(2.045f, 2.5f));*/
+	//bgTexture.loadFromFile("images/MORNING.png");
+	bgTexture.loadFromFile("images/morningBG.jpeg");
+	bgTexture.setRepeated(true);
+	//this->initBackground(IntRect(0, 0, 2404, 320), Vector2f(0.f, -323.f), Vector2f(2.045f, 2.5f));
 	this->initBackground(IntRect(0, 0, 2404, 320), Vector2f(0.f, -323.f), Vector2f(2.045f, 2.5f));
 	this->platforms.chooseLevel(1);
 	this->enemies.chooseLevel(1);

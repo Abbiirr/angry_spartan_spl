@@ -4,6 +4,8 @@
 #include "ScoreSystem.h"
 #include "Enemy.h"
 #include "Animation.h"
+#include "TextChannel.h"
+
 
 #include "SpartanAttack.h"
 
@@ -59,6 +61,8 @@ private:
 	bool lightAttackGoing = false;
 
 	SpartanAttack spartanAttack = SpartanAttack();
+
+	TextChannel textChannel = TextChannel();
 
 	int score = 0;
 

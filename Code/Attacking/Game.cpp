@@ -294,7 +294,7 @@ void Game::update(float deltaTime)
 		this->ui.scoreSystem.updateScoreFile();
 	}
 	
-
+	textChannel.updateText("LEVEL " + to_string(currentLevel));
 }
 
 void Game::render()
@@ -305,7 +305,7 @@ void Game::render()
 	//this->xerxes.render(this->window);
 	//this->leonidas.render(this->window);
 	if (this->isMoreThanThreshold) {
-		textChannel.draw(window, this->view.getCenter());
+		textChannel.draw(window, this->view.getCenter(), -50.f, 200.f);
 		textChannel.updateText("");
 	}
 

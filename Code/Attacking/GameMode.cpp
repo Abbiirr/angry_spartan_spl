@@ -96,7 +96,7 @@ void GameMode::clear()
 void GameMode::draw(RenderTarget & target)
 {
 	target.draw(gameModeBgSprite);
-	for (int i = 0; i < MAX_NUMBER_OF_ITEMS; i++)
+	for (int i = 0; i < 1; i++)
 	{
 		target.draw(menu[i]);
 	}

@@ -35,7 +35,7 @@ public:
 	Text text;
 
 	void updateText(string text);
-	void draw(RenderTarget & target, Vector2f pos);
+	void draw(RenderTarget & target, Vector2f pos, float x, float y);
 
 
 };

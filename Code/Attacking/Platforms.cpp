@@ -107,7 +107,6 @@ void Platforms::initLevel1Platforms()
 	this->addPlatform(1000.f, this->defPlatformSize, 210.f);
 	this->addPlatform(800.f, this->defPlatformSize, 120.f);
 	this->addPlatform(1200.f, this->defPlatformSize, 180.f);
-	this->addPlatform(27000, this->defPlatformSize, 250);
 
 	this->addNewScene(finalLimit, defLength, 350);
 
