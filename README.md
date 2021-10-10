@@ -1,6 +1,6 @@
 # Angry Spartan
  This is the repo for the SPL-1 project Angry Spartan
-
+ All dependencies are given, you only need to have Visual Studio 2017 to run it.
 
  
  
